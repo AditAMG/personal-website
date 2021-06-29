@@ -60,11 +60,21 @@ h1 {
     font-family: serif;
     font-size: 20px;
 }
-.links:hover{
+
+.links:hover {
     background-color: azure;
 }
-#name{
-    font-size: 30px
-        line-height:1.2;
-    font-family:'Yellowtail', cursive;
+
+#name {
+    font-size: 30px line-height:1.2;
+    font-family: 'Yellowtail', cursive;
 }
+a{
+    text-decoration: none;
+}
+.article:hover{
+  color: beige;  
+}
+.line[
+scroll-behavior:smooth;
+]
